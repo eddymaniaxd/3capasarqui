@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Arquitectura SW 2023-02 </string>
+
+    <string name="informacion">informacion</string>
+    <string name="txtmenu">MENÚ</string>
+
+    <string name="titleaddcategoria">AGREGAR CATEGORIA</string>
+    <string name="titlelistacategoria">AGREGAR CATEGORIA</string>
+    <string name="titlelistaCategoria">LISTA DE CATEGORIAS</string>
+    <string name="txtnombrecategoria">Categoria Nombre</string>
+    <string name="btnguardarCategoria">Guardar</string>
+    <string name="btnvolverCategoria">Volver</string>
+    <string name="btneliminarCategoria">Eliminar</string>
+    <string name="btnmodificarCategoria">Modificar</string>
+
+
+    <string name="titleaddcliente">AGREGAR CLIENTE</string>
+    <string name="titlelistacliente">LISTA DE VENDEDORES</string>
+    <string name="txtnombrecliente">Nombre Completo</string>
+    <string name="txtcelular">Celular</string>
+    <string name="txtubicacion">Descripcion</string>
+
+
+    <string name="titleaddREPARTIDOR">AGREGAR VENDEDOR</string>
+    <string name="titlelistaREPARTIDOR">LISTA DE VENDEDORES</string>
+
+
+    <string name="titleaddproducto">AGREGAR PRODUCTO</string>
+    <string name="titlelistaproducto">LISTA DE PRODUCTOS</string>
+    <string name="txtnombreproducto">Nombre del Producto</string>
+    <string name="txtdescripcion">Descripcion</string>
+    <string name="txtprecio">Precio Bs</string>
+    <string name="btnaddimage">Agregar Imagen</string>
+    <string name="titleUProducto">DATOS DE PRODUCTO</string>
+
+    <string name="titlelistacotizacion">LISTA DE LAS NOTA VENTA</string>
+    <string name="titleaddcotizacion">AGREGAR NOTA VENTA</string>
+    <string name="txtdateCotizacion">YYYY/MM/DD</string>
+    <string name="title_activity_main_pedido">MainActivityPedido</string>
+
+
+
+</resources>

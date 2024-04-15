@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/drawable/ic_add1.xml" value="0.354" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.363" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/drawable/ic_cliente.xml" value="0.363" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/drawable/ic_return.xml" value="0.363" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_categoria.xml" value="0.25" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_add_cliente.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_add_cotizacion.xml" value="0.22" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_add_pedido.xml" value="0.25" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_add_producto.xml" value="0.33" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_add_repartidor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_categoria.xml" value="0.40421792618629176" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_cliente.xml" value="0.22" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_cotizacion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_detalle_cotizacion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_pedido.xml" value="0.25" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_producto.xml" value="0.22" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_repartidor.xml" value="0.25" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_up_del_categoria.xml" value="0.25" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_up_del_cliente.xml" value="0.22" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_up_del_producto.xml" value="0.33" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_up_detalle_cotizacion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main_up_repartidor.xml" value="0.24372759856630824" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_categoria.xml" value="0.22" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_cliente.xml" value="0.1" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_cotizacion.xml" value="0.1" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_datalle_cotizacion.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_detalle_prod.xml" value="0.75" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_producto.xml" value="0.33" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_repartidor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Carla/AndroidStudioProjects/MyApp/app/src/main/res/xml/file_paths.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
